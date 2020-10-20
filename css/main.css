@@ -12,7 +12,3 @@ h1 {
 a {
   color: #105f50;
 }
-
-a::after {
-  color: #105f50;
-}
